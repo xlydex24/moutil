@@ -1,4 +1,4 @@
-package com.lbin.util;
+package com.lbin.sdk.util;
 
 import cn.hutool.core.io.FileUtil;
 import cn.hutool.core.io.IORuntimeException;

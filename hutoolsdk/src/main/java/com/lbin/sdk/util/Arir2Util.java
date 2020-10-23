@@ -1,4 +1,4 @@
-package com.lbin.util;
+package com.lbin.sdk.util;
 
 import cn.hutool.core.util.StrUtil;
 import cn.hutool.http.HttpUtil;
