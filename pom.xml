@@ -17,6 +17,7 @@
     <properties>
         <hutool.version>5.4.2</hutool.version>
         <lombok.version>1.18.12</lombok.version>
+        <mysql.version>5.1.40</mysql.version>
     </properties>
 
     <dependencies>
